@@ -1,10 +1,7 @@
 +++
-title = 'Guests'
-date = 2024-10-05T13:36:26+02:00
+title = 'Gostje'
 draft = false
 +++
-
-SLOVENE
 
 # 2022
 

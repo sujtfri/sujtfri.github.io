@@ -1,10 +1,9 @@
 +++
 title = 'Teaching'
-date = 2024-10-05T15:06:29+02:00
 draft = false
 +++
 
-# The staff of LKM is engaged in teaching the following courses
+# The staff of MLLT is engaged in teaching the following courses
 
 |     |     |     |
 | --- | --- | --- |

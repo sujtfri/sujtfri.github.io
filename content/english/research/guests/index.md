@@ -1,6 +1,5 @@
 +++
 title = 'Guests'
-date = 2024-10-05T13:36:26+02:00
 draft = false
 +++
 

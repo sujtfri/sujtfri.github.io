@@ -3,7 +3,7 @@ title = 'Poučevanje'
 draft = false
 +++
 
-# Osebje LKM izvaja poučevanje pri naslednjih predmetih
+# Osebje SUJT izvaja poučevanje pri naslednjih predmetih
 
 |     |     |     |
 | --- | --- | --- |

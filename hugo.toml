@@ -98,10 +98,10 @@ paginate = 3
         url = "/gallery/"
         weight = 600
 
-      [[languages.en.menus.main]]
-        name = "Shiny"
-        url = "/shiny/"
-        weight = 700
+      # [[languages.en.menus.main]]
+      #   name = "Shiny"
+      #   url = "/shiny/"
+      #   weight = 700
   [languages.si]
         title = 'SUJT'
         contentDir = 'content/slovene'
