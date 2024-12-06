@@ -3,6 +3,10 @@ theme = "sujt_theme"
 relativeURLs = true
 paginate = 3
 
+[params]
+rootURL = "https://sujtfri.github.io/"
+
+
 [languages]
   [languages.en]
     title = 'MLLT'
