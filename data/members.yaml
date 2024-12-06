@@ -1,7 +1,11 @@
 head_members:
   - name: "Prof. dr. Igor Kononenko"
-    # title: "Head of Laboratory"
-    bio: "Igor Kononenko received his Ph.D. in 1990 in computer science from University of Ljubljana, Slovenia. He is the professor at the Faculty of Computer and Information Science in Ljubljana (courses: Algorithms and Data Structures 1, Machine learning, Artificial Intelligence). His research interests include artificial intelligence, machine learning, neural networks and cognitive modeling. He is the (co)author of 225 papers in these fields and 12 textbooks. In 2007 a book was published by Horwood: Igor Kononenko and Matjaž Kukar: Machine Learning and Data Mining: Introduction to Principles and Algorithms. Kononenko is a member of the editorial board of Applied Intelligence and Informatica journals. He was also twice a chair of program committee of International cognitive conference in Ljubljana. Besides artificial intelligence he is interested also in natural intelligence, relation between science and spirituality, and spiritual wisdom."
+    title:
+      en: "Head of Laboratory"
+      si: "Vodja laboratorija"
+    bio:
+      en: "Igor Kononenko received his Ph.D. in 1990 in computer science from University of Ljubljana, Slovenia. He is a professor at the Faculty of Computer and Information Science in Ljubljana (courses: Algorithms and Data Structures 1, Machine learning, Artificial Intelligence). His research interests include artificial intelligence, machine learning, neural networks and cognitive modeling. He is the (co)author of 225 papers in these fields and 12 textbooks. In 2007 a book was published by Horwood: Igor Kononenko and Matjaž Kukar: Machine Learning and Data Mining: Introduction to Principles and Algorithms. Kononenko is a member of the editorial board of Applied Intelligence and Informatica journals. He was also twice a chair of the program committee of the International Cognitive Conference in Ljubljana. Besides artificial intelligence, he is interested also in natural intelligence, the relation between science and spirituality, and spiritual wisdom."
+      si: "Igor Kononenko je leta 1990 doktoriral iz računalništva na Univerzi v Ljubljani, Slovenija. Je profesor na Fakulteti za računalništvo in informatiko v Ljubljani (predmeti: Algoritmi in podatkovne strukture 1, Strojno učenje, Umetna inteligenca). Njegovo raziskovalno področje vključuje umetno inteligenco, strojno učenje, nevronske mreže in kognitivno modeliranje. Je (so)avtor 225 prispevkov na teh področjih in 12 učbenikov. Leta 2007 je pri založbi Horwood izšla knjiga Igor Kononenko in Matjaž Kukar: Strojno učenje in rudarjenje podatkov: Uvod v načela in algoritme. Kononenko je član uredniškega odbora revij Applied Intelligence in Informatica. Dvakrat je bil predsednik programskega odbora Mednarodne kognitivne konference v Ljubljani. Poleg umetne inteligence ga zanima tudi naravna inteligenca, odnos med znanostjo in duhovnostjo ter duhovna modrost."
     image: "img/people/IMG_5112.jpg"
     contact: "igor.kononenko@fri.uni-lj.si"
     relurl: "igor.kononenko/"
@@ -9,57 +13,73 @@ head_members:
 
 staff_members:
   - name: "Assoc. Prof. dr. Matjaž Kukar"
-    # title: "Research Scientist"
-    bio: "Matjaž Kukar received his Ph.D. degree in computer science in 2001 from the University of Ljubljana. He has B.Sc. and M.Sc. degrees from the same university. He is an associate professor at the Laboratory for Cognitive Modelling. His research interests include machine learning, data mining and their applications in medicine, ROC analysis, cost-sensitive learning, combinations of classifiers, classification reliability in machine learning, and spatial learning. He is the co-author of the book Machine Learning and Data Mining: Introduction to Principles and Algorithms (with Igor Kononenko) and more than 60 scientific publications in these fields."
+    # title:
+    #   en: "Research Scientist"
+    #   si: "Raziskovalni znanstvenik"
+    bio:
+      en: "Matjaž Kukar received his Ph.D. degree in computer science in 2001 from the University of Ljubljana. He has B.Sc. and M.Sc. degrees from the same university. He is an associate professor at the Laboratory for Cognitive Modelling. His research interests include machine learning, data mining and their applications in medicine, ROC analysis, cost-sensitive learning, combinations of classifiers, classification reliability in machine learning, and spatial learning. He is the co-author of the book Machine Learning and Data Mining: Introduction to Principles and Algorithms (with Igor Kononenko) and more than 60 scientific publications in these fields."
+      si: "Matjaž Kukar je leta 2001 doktoriral iz računalništva na Univerzi v Ljubljani. Ima diplom in magisterij z iste univerze. Je izredni profesor na Laboratoriju za kognitivno modeliranje. Njegovo raziskovalno področje vključuje strojno učenje, rudarjenje podatkov in njihove aplikacije v medicini, ROC analizo, učenje, občutljivo na stroške, kombinacije klasifikatorjev, zanesljivost klasifikacije v strojni učenju ter prostorsko učenje. Je soavtor knjige Strojno učenje in rudarjenje podatkov: Uvod v načela in algoritme (z Igorjem Kononenkom) ter več kot 60 znanstvenih objav na teh področjih."
     image: "img/people/IMG_5167.jpg"
     contact: "matjaz.kukar@fri.uni-lj.si"
     relurl: "matjaz.kukar/"
     phone: +386 1 4798 235
 
   - name: "Prof. dr. Marko Robnik Šikonja"
-    # title: "Research Scientist"
-    bio: "Marko Robnik Šikonja, Ph.D., Professor of Computer Science and Informatics, works on machine learning, natural language processing, data mining, network analysis, artificial intelligence, and cognitive modeling. His most notable scientific results concern feature evaluation, ensemble learning, natural language modelling, cross-lingual model transfer, and neuro-symbolic processing. He is (co)author of approximately 150 scientific publications that were cited more than 5000 times. He is author and maintainer of three open source R data mining packages (recent papers, free software), and editorial board member of six journals."
+    # title:
+    #   en: "Research Scientist"
+    #   si: "Raziskovalni znanstvenik"
+    bio:
+      en: "Marko Robnik Šikonja, Ph.D., Professor of Computer Science and Informatics, works on machine learning, natural language processing, data mining, network analysis, artificial intelligence, and cognitive modeling. His most notable scientific results concern feature evaluation, ensemble learning, natural language modeling, cross-lingual model transfer, and neuro-symbolic processing. He is (co)author of approximately 150 scientific publications that were cited more than 5000 times. He is author and maintainer of three open source R data mining packages (recent papers, free software), and editorial board member of six journals."
+      si: "Marko Robnik Šikonja, dr. med., profesor računalništva in informatike, se ukvarja s strojnim učenjem, obdelavo naravnega jezika, rudarjenjem podatkov, analizo omrežij, umetno inteligenco in kognitivnim modeliranjem. Njegovi najbolj znani znanstveni rezultati se nanašajo na oceno lastnosti, ensemble učenje, modeliranje naravnega jezika, prenos modelov v različnih jezikih in nevro-simbolično obdelavo. Je (so)avtor približno 150 znanstvenih objav, ki so bile citirane več kot 5000-krat. Je avtor in vzdrževalec treh odprtokodnih R paketov za rudarjenje podatkov (najnovejši članki, brezplačna programska oprema) ter član uredniškega odbora šestih revij."
     image: "img/people/Marko2015.jpg"
     contact: "marko.robniksikonja@fri.uni-lj.si"
-    relurl: "lab_member3/"
+    relurl: "marko.robniksikonja/"
     phone: +386 1 4798 241
 
   - name: "Prof. dr. Zoran Bosnić"
-    # title: ""
-    bio: "Zoran Bosnić received his B.Sc., M.Sc. and Ph.D. degrees in computer science from the University of Ljubljana in 2001, 2003 and 2007, respectively. He is a professor at the Laboratory for Cognitive Modeling. His research interests include machine learning, in particular mining from data streams, recommender systems, user behavior profiling, and natural language processing. He is a (co)author of more than 50 publications in these fields."
+    # title:
+    #   en: "Research Scientist"
+    #   si: "Raziskovalni znanstvenik"
+    bio:
+      en: "Zoran Bosnić received his B.Sc., M.Sc. and Ph.D. degrees in computer science from the University of Ljubljana in 2001, 2003 and 2007, respectively. He is a professor at the Laboratory for Cognitive Modeling. His research interests include machine learning, in particular mining from data streams, recommender systems, user behavior profiling, and natural language processing. He is a (co)author of more than 50 publications in these fields."
+      si: "Zoran Bosnić je prejel svojo B.Sc., M.Sc. in Ph.D. stopnjo iz računalništva na Univerzi v Ljubljani leta 2001, 2003 in 2007. Je profesor na Laboratoriju za kognitivno modeliranje. Njegovo raziskovalno področje vključuje strojno učenje, zlasti rudarjenje iz podatkovnih tokov, sisteme za priporočanje, profiliranje uporabniškega vedenja in obdelavo naravnega jezika. Je (so)avtor več kot 50 objav na teh področjih."
     image: "img/people/IMG_5170.jpg"
     contact: "zoran.bosnic@fri.uni-lj.si"
-    relurl: "lab_member4/"
+    relurl: "zoran.bosnic/"
     phone: +386 1 4798 237
 
   - name: "Assoc. Prof. dr. Erik Štrumbelj"
-    # title: ""
-    bio: "Erik Štrumbelj completed his PhD in 2011 at the Faculty of computer and information science, University of Ljubljana. He is an associate professor at the Laboratory for Cognitive Modeling. For his PhD, he was awarded the Jožef Stefan Golden Emblem, in 2015 he received the Young university teachers award from the University of Ljubljana, and in 2016 he was awarded a ARRS research grant for a 3-year project in statistical computation. His research is focused on Bayesian statistics, statistical computation, and statistical methods in machine learning. He also thoroughly enjoys sports, teaching statistics, and comparing things."
+    # title:
+    #   en: "Research Scientist"
+    #   si: "Raziskovalni znanstvenik"
+    bio:
+      en: "Erik Štrumbelj completed his PhD in 2011 at the Faculty of Computer and Information Science, University of Ljubljana. He is an associate professor at the Laboratory for Cognitive Modeling. For his PhD, he was awarded the Jožef Stefan Golden Emblem, in 2015 he received the Young University Teacher Award from the University of Ljubljana, and in 2016 he was awarded an ARRS research grant for a 3-year project in statistical computation. His research is focused on Bayesian statistics, statistical computation, and statistical methods in machine learning. He also thoroughly enjoys sports, teaching statistics, and comparing things."
+      si: "Erik Štrumbelj je leta 2011 doktoriral na Fakulteti za računalništvo in informatiko, Univerza v Ljubljani. Je izredni profesor na Laboratoriju za kognitivno modeliranje. Za svoj doktorski študij je prejel zlato značko Jožefa Stefana, leta 2015 je prejel nagrado za mlade univerzitetne učitelje Univerze v Ljubljani, leta 2016 pa je prejel raziskovalno štipendijo ARRS za 3-letni projekt v statističnem računstvu. Njegovo raziskovalno področje vključuje Bayesovo statistiko, statistično računanje in statistične metode v strojnem učenju. Poleg tega zelo uživa v športu, poučevanju statistike in primerjanju stvari."
     image: "img/people/IMG_5089.jpg"
     contact: "erik.strumbelj@fri.uni-lj.si"
-    relurl: "lab_member5/"
+    relurl: "erik.strumbelj/"
     phone: +386 1 4798 235
 
   - name: "as. dr. Petar Vračar"
-    # title: ""
-    bio: "Petar Vračar received his B.Sc., M.Sc., and PhD. degrees in computer science from the University of Ljubljana in 1999, 2010, and 2017 respectively. He is currently a teaching assistant at the Laboratory of Cognitive Modeling. His research interests include sports forecasting, team sports simulation, data mining, and machine learning based image processing."
+    # title:
+    #   en: "Research Scientist"
+    #   si: "Raziskovalni znanstvenik"
+    bio:
+      en: "Petar Vračar received his B.Sc., M.Sc., and PhD. degrees in computer science from the University of Ljubljana in 1999, 2010, and 2017 respectively. He is currently a teaching assistant at the Laboratory of Cognitive Modeling. His research interests include sports forecasting, team sports simulation, data mining, and machine learning based image processing."
+      si: "Petar Vračar je prejel diplomo, magistrski in doktorski naziv iz računalništva na Univerzi v Ljubljani v letih 1999, 2010 in 2017. Trenutno je asistent na Laboratoriju za kognitivno modeliranje. Njegova raziskovalna področja vključujejo napovedovanje športnih dogodkov, simulacijo ekipnih športov, rudarjenje podatkov in obdelavo slik s pomočjo strojnega učenja."
     image: "img/people/IMG_5120.jpg"
     contact: "petar.vracar@fri.uni-lj.si"
-    relurl: "lab_member6/"
+    relurl: "petar.vracar/"
     phone: +386 1 479 8226
-
-  # - name: ""
-  #   # title: ""
-  #   bio: ""
-  #   image: "img/people/"
-  #   contact: ""
-  #   relurl: "lab_member3/"
-  #   phone:
 
 visiting_members:
   - name: "Jan Pavlin"
-    # title: ""
-    bio: "Jan Pavlin received his B.S degree in computer science from the University of Ljubljana in 2018. He is currently working on a project for Slovenian Environment Agency."
+    # title:
+    #   en: "Research Scientist"
+    #   si: "Raziskovalni znanstvenik"
+    bio:
+      en: "Jan Pavlin received his B.S degree in computer science from the University of Ljubljana in 2018. He is currently working on a project for Slovenian Environment Agency."
+      si: "Jan Pavlin je prejel diplomo iz računalništva na Univerzi v Ljubljani leta 2018. Trenutno dela na projektu za Slovensko okoljsko agencijo."
     image: "img/people/49446064_272206263476537_4467633008593076224_n.jpg"
     # contact: ""
     # relurl: ""
