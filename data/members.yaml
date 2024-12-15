@@ -19,7 +19,7 @@ staff_members:
     bio:
       en: "Matjaž Kukar received his Ph.D. degree in computer science in 2001 from the University of Ljubljana. He has B.Sc. and M.Sc. degrees from the same university. He is an associate professor at the Laboratory for Cognitive Modelling. His research interests include machine learning, data mining and their applications in medicine, ROC analysis, cost-sensitive learning, combinations of classifiers, classification reliability in machine learning, and spatial learning. He is the co-author of the book Machine Learning and Data Mining: Introduction to Principles and Algorithms (with Igor Kononenko) and more than 60 scientific publications in these fields."
       si: "Matjaž Kukar je leta 2001 doktoriral iz računalništva na Univerzi v Ljubljani. Ima diplom in magisterij z iste univerze. Je izredni profesor na Laboratoriju za kognitivno modeliranje. Njegovo raziskovalno področje vključuje strojno učenje, rudarjenje podatkov in njihove aplikacije v medicini, ROC analizo, učenje, občutljivo na stroške, kombinacije klasifikatorjev, zanesljivost klasifikacije v strojni učenju ter prostorsko učenje. Je soavtor knjige Strojno učenje in rudarjenje podatkov: Uvod v načela in algoritme (z Igorjem Kononenkom) ter več kot 60 znanstvenih objav na teh področjih."
-    image: "img/people/IMG_5167.jpg"
+    image: "https://fri.uni-lj.si/sites/default/files/matja%C5%BE_kukar_2.png"
     contact: "matjaz.kukar@fri.uni-lj.si"
     relurl: "matjaz.kukar/"
     phone: +386 1 4798 235
