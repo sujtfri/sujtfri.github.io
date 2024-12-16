@@ -72,6 +72,18 @@ staff_members:
     relurl: "petar.vracar/"
     phone: +386 1 479 8226
 
+  - name: "Tinca Lukan"
+    # title:
+    #   en: "Research Scientist"
+    #   si: "Raziskovalni znanstvenik"
+    bio:
+      en: "Tinca Lukan received her B. Sc. 2018 in sociology from the UL FRI."
+      si: "Tinca Lukan je diplomirala leta 2018 iz sociologije na UL FRI."
+    image: "img/people/49446064_272206263476537_4467633008593076224_n.jpg"
+    # contact: ""
+    # relurl: ""
+    # phone:
+
 visiting_members:
   - name: "Jan Pavlin"
     # title:
