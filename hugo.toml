@@ -9,7 +9,7 @@ rootURL = "https://sujtfri.github.io/"
 
 [languages]
   [languages.en]
-    title = 'MLLT'
+    title = 'SUJT'
     contentDir = 'content/english'
     languageName = 'English'
     weight = 10
