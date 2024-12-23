@@ -1,5 +1,5 @@
 baseURL = 'https://sujtfri.github.io/'
-theme = "sujt_theme"
+theme = ["hugo-cloak-email", "sujt_theme"]
 relativeURLs = true
 paginate = 3
 
