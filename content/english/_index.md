@@ -1,27 +1,30 @@
 +++
-title = 'MLLT About'
+title = ''
+date = 2025-02-04T11:01:48+01:00
 draft = false
 +++
+{{< columns >}}
 
-### Laboratory for Machine Learning and Language Technologies
+## Laboratory for Machine Learning and Language Technologies (SUJT)
 
-MLLT research areas are artificial intelligence, machine learning, statistics, natural language processing, image analysis, cognitive modelling, and data mining. Research is applied to cognitive, medical, biological, financial, and other processes. We are developing, testing, and applying new approaches and algorithms for modelling from numeric, symbolic and pictorial data. Recent research is related to deep neural networks in language and graphs, neuro-symbolic processing, data generation, reliability of models’ predictions in classification and regression, reliability of clustering, ensemble learning, latent models for count data, cross-lingual model transfer, text summarization, modelling sports data, user profiling, recommendation systems, mining spatial data, and mining of data streams.
+**We are a scientific laboratory specializing in research and development in the fields of machine learning and language technologies.**
 
-<!-- ![Cognitive Modelling Img](img/cognitiveModeling.png) -->
+Our work focuses on understanding and processing language in various contexts, such as healthcare, digital humanities, and pharmaceuticals.
 
-{{< image src="cognitiveModeling.png" alt="Cognitive Modelling" class="img-fluid"  >}}
+We conduct research in the areas of data mining, neural networks, artificial intelligence, big data analysis, and large-scale data stream analysis.
 
-[LKM homepage @ FRI webpages](https://fri.uni-lj.si/en/laboratory/lkm)
+- We develop and apply new approaches and algorithms for data modeling.
+- Our research has practical value. We collaborate with doctors, pharmacists, biologists, sports experts, and linguists.
+- Our research subfields include modeling numerical, symbolic, image, textual, and spatial data, medical diagnostics and prognostics, generating partially synthetic data, and language technologies.
 
-### Quick Facts
+{{< column >}}
 
-Laboratory for Cognitive Modeling  
-University of Ljubljana  
-Faculty of Computer and Information Science  
-Večna pot 113  
-1000 Ljubljana  
-Slovenia
+<img src="group_image.jpg" class="img-fluid" style="margin-bottom: 50px;">
 
-**Tel:** +386-1-4798-226
+{{< endcolumns >}}
 
-[Research group at SICRIS](http://sicris.izum.si/search/grp.aspx?lang=slv&id=6836)
+## Vision and Values
+
+- Our goal is the **creation, exchange, and transfer of knowledge** in the fields of machine learning and language technologies.
+- We lead numerous national and international projects that include both applied and theoretical research, focusing on **solving concrete challenges while deepening the fundamental understanding of these fields**.
+- Our work is based on a commitment to **interdisciplinarity and multidisciplinarity**. We integrate knowledge and approaches from various scientific disciplines, fostering innovation and strengthening collaboration among research groups at both national and international levels.

@@ -1,4 +1,0 @@
-+++
-title = 'Osebe'
-draft = false
-+++
