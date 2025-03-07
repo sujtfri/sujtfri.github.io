@@ -1,0 +1,13 @@
+demos:
+  - name:
+      en: "Demo 1 - Sample Jupyter Notebook"
+      si: "Demo 1 - Primer Jupyter Notebook"
+    url: "http://shiny.fri.uni-lj.si:51515/localfile/sample_notebook/sample_notebook.ipynb"
+  - name:
+      en: "Demo 2 - KNN Classifier Decision Boundary"
+      si: "Demo 2 - Odločitvena meja KNN klasifikatorja"
+    url: "http://shiny.fri.uni-lj.si:51516/"
+  - name:
+      en: "Demo 3 - Sample Shiny App"
+      si: "Demo 3 - Primer Shiny aplikacija"
+    url: "http://shiny.fri.uni-lj.si:51517/sample_app/sample_app/"

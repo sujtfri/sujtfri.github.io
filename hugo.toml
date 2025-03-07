@@ -42,7 +42,12 @@ rootURL = "https://sujtfri.github.io/"
       [[languages.en.menus.main]]
         name = "Media center"
         url = "/media/"
-        weight = 400
+        weight = 500
+
+      [[languages.en.menus.main]]
+        name = "Demos"
+        url = "/demos/"
+        weight = 600
 
 
   [languages.si]
@@ -79,6 +84,11 @@ rootURL = "https://sujtfri.github.io/"
             name = "Medijsko središče"
             url = "/si/media/"
             weight = 500
+
+            [[languages.si.menus.main]]
+            name = "Demonstracije"
+            url = "/si/demos/"
+            weight = 600
          
 
 [markup.goldmark.renderer] 
