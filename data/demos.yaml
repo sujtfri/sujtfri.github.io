@@ -2,7 +2,7 @@ demos:
   - name:
       en: "Demo 1 - Sample Jupyter Notebook"
       si: "Demo 1 - Primer Jupyter Notebook"
-    url: "https://shiny.fri.uni-lj.si:51515/localfile/sample_notebook/sample_notebook.ipynb"
+    url: "https://shiny.fri.uni-lj.si/nbviewer/localfile/sample_notebook/sample_notebook.ipynb"
   - name:
       en: "Demo 2 - KNN Classifier Decision Boundary"
       si: "Demo 2 - Odločitvena meja KNN klasifikatorja"
