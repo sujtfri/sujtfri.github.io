@@ -66,6 +66,11 @@ staff_members:
     relurl: "tinca-lukan/"
     phone:
 
+  - name: "Primer Uporabnik"
+    relurl: "primer.uporabnik/"
+
+
+
 former_members:
   - name: "Assoc. Prof. dr. Erik Štrumbelj"
     # title:
