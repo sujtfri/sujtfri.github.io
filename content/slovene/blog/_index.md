@@ -4,10 +4,16 @@ date = 2025-02-04T11:34:15+01:00
 draft = false
 +++
 
-# Blog in novice
+### Blog **in Novice**
+
+<br> <br> 
 
 {{< content_row "blog" >}}
 
-# V medijih
+<br> <br> 
 
-{{< content_row "media-blog" >}}
+##### **V medijih**
+
+<br> <br> 
+
+{{< content_row_small "media-blog" >}}

@@ -1,9 +1,11 @@
 +++
 title = 'PoveJmO - Prilagodljiva Obdelava naravnega jezika s pomočjo VElikih Jezikovnih MOdelov'
-date = 2025-02-04T11:38:09+01:00
+date = 2025-02-10
 draft = false
-cover_image = "projects/povejmo/smash.jpg"
+authors = ["John Doe", "Jane Doe"]
+cover_image = "projects/povejmo/Thumbnail.png"
 summary = "V projektu bomo razvili več učinkovitih odprtokodnih jezikovnih modelov. Zgrajen model bo prvi tak model za morfološko bogat jezik z malo viri. "
+category="CATEGORY"
 +++
 
 # PoveJmO - Prilagodljiva Obdelava naravnega jezika s pomočjo VElikih Jezikovnih MOdelov

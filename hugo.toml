@@ -11,7 +11,7 @@ rootURL = "https://sujtfri.github.io/"
   [languages.en]
     title = 'SUJT'
     contentDir = 'content/english'
-    languageName = 'English'
+    languageName = 'EN'
     weight = 10
     [languages.en.params]
       flag = "flag-icon-us"
@@ -53,7 +53,7 @@ rootURL = "https://sujtfri.github.io/"
   [languages.si]
         title = 'SUJT'
         contentDir = 'content/slovene'
-        languageName = 'Slovenščina'
+        languageName = 'SI'
         weight = 20
         [languages.si.params]
           flag = "flag-icon-si"

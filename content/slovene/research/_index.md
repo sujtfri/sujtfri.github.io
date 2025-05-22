@@ -1,13 +1,22 @@
 +++
 title = 'Research'
-date = 2025-02-04T11:35:01+01:00
+date = 2025-02-04T11:35:07+01:00
 draft = false
 +++
 
-# Projekti
+#### **Projekti**
+
+<br> <br>
 
 {{< content_row "projects" >}}
 
-# Publikacije
+<br> <br> 
+
+#### **Publikacije**
+
+<br> <br>
 
 {{< content_row "publications" >}}
+
+<br> <br>
+

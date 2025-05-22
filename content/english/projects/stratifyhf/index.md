@@ -1,9 +1,10 @@
 +++
 title = 'STRATIFYHF - Sistem za podporo odločanju na osnovi umetne inteligence'
-date = 2025-02-04T11:38:05+01:00
+date = 2025-02-08
 draft = false
-cover_image = "projects/stratifyhf/smash.jpg"
+cover_image = "projects/stratifyhf/Thumbnail.png"
 summary = "Projekt STARTIFYHF bo spremenil način diagnosticiranja srčnega popuščanja danes in s tem izboljšal kakovost in dolžino življenja bolnikov ter vodil do učinkovitih in trajnostnih sistemov zdravstvenega varstva z zmanjšanjem števila sprejemov v bolnišnice, povezanih s srčnim popuščanjem, in nepotrebnih napotitev iz primarne v sekundarno oskrbo v Evropi in naprej."
+category="CATEGORY"
 +++
 
 # STRATIFYHF - Sistem za podporo odločanju na osnovi umetne inteligence
