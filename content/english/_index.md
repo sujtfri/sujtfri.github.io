@@ -9,7 +9,7 @@ draft = false
 
 {{< align start>}}
 
-#### Laboratory for **Machine Learning** and **Language Technologies (MLLT)**
+## Laboratory for **Machine Learning** and **Language Technologies (MLLT)**
 
 <br>
 

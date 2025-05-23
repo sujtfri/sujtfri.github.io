@@ -10,7 +10,7 @@ draft = false
 
 {{< align start>}}
 
-#### Laboratorij za **strojno učenje** in **jezikovne tehnologije (SUJT)**
+## Laboratorij za **strojno učenje** in **jezikovne tehnologije (SUJT)**
 
 <br>
 
