@@ -8,6 +8,6 @@ category = "CATEGORY"
 authors = ["Jon Doe"]
 +++
 
-# The Power of Predictive Analytics in Decision Making
+#### The Power of Predictive Analytics in Decision Making
 
 Description content experience a unified analytics platform that bridges the gaps in your data ecosystem, ensuring you have a holistic view of your operations.

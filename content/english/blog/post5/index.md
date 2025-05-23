@@ -8,6 +8,6 @@ category = "CATEGORY"
 authors = ["Jon Doe"]
 +++
 
-# Big Data Ethics: Navigating Privacy and Security
+#### Big Data Ethics: Navigating Privacy and Security
 
 Description content experience a unified analytics platform that bridges the gaps in your data ecosystem, ensuring you have a holistic view of your operations.

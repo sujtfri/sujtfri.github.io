@@ -1,17 +1,16 @@
 +++
-title = 'PoveJmO - Prilagodljiva Obdelava naravnega jezika s pomočjo VElikih Jezikovnih MOdelov'
+title = 'PoveJmO – Adaptive Natural Language Processing with the Help of Large Language Models'
 date = 2025-02-10
 draft = false
 authors = ["John Doe", "Jane Doe"]
 cover_image = "projects/povejmo/Thumbnail.png"
-summary = "V projektu bomo razvili več učinkovitih odprtokodnih jezikovnih modelov. Zgrajen model bo prvi tak model za morfološko bogat jezik z malo viri. "
+summary = "In this project, we will develop several efficient open-source language models. The constructed model will be the first of its kind for a morphologically rich low-resource language."
 category="CATEGORY"
 +++
 
-# PoveJmO - Prilagodljiva Obdelava naravnega jezika s pomočjo VElikih Jezikovnih MOdelov
+# PoveJmO – Adaptive Natural Language Processing with the Help of Large Language Models
 
-V projektu bomo razvili več učinkovitih odprtokodnih jezikovnih modelov. Zgrajen model bo prvi tak model za morfološko bogat jezik z malo viri. 
-
+In this project, we will develop several efficient open-source language models. The constructed model will be the first of its kind for a morphologically rich low-resource language.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis urna leo, eu tincidunt massa ultrices a. Curabitur ut placerat arcu, eu porta magna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris eu felis a lectus pharetra consequat faucibus et magna. Sed sed congue mauris, maximus pellentesque est. Quisque venenatis tristique odio, vitae varius dolor fringilla quis. Etiam purus nibh, aliquet ac lacus sed, congue bibendum est. Mauris pretium maximus turpis suscipit rutrum. Suspendisse sed porttitor diam. Nunc imperdiet ultrices sem, ac bibendum lacus porta et. Ut nibh ipsum, porta a gravida fringilla, luctus mollis felis. In hac habitasse platea dictumst. Integer nibh magna, tincidunt et vehicula nec, convallis in ligula. Praesent rutrum felis id est blandit semper. In dapibus lobortis turpis a semper.
 

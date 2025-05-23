@@ -54,9 +54,9 @@ Raziskujemo področja podatkovnega rudarjenja, nevronskih mrež, umetne intelige
 <div class="col-12 col-lg-6 mb-5 mb-lg-0">
 
 {{< feature_cards 
-  card1="**Naš cilj**<br><br>Naš cilj je ustvarjanje, izmenjava in prenašanje znanja s področja strojnega učenja in jezikovnih tehnologij."
-  card2="**Projekti**<br><br>Vodimo številne nacionalne in mednarodne projekte, ki vključujejo tako  aplikativne kot teoretične raziskave, pri čemer se osredotočamo na reševanje konkretnih izzivov in hkrati poglabljamo temeljno razumevanje teh področij."
-  card3="**Naše delo**<br><br>Naše delo temelji na zavezanosti interdisciplinarnosti in multi- disciplinarnosti. Združujemo znanja in pristope iz različnih znanstvenih disciplin. Tako spodbujamo  inovacije in krepimo sodelovanje med raziskovalnimi skupinami na nacionalni in mednarodni ravni." 
+  card1="**Razvoj**<br><br>Razvijamo in uporabljamo nove pristope in algoritme za modeliranje podatkov."
+  card2="**Raziskave**<br><br>Naše raziskave imajo aplikativno vrednost. Sodelujemo z zdravniki, farmacevti, biologi, športnimi strokovnjaki in jezikoslovci."
+  card3="**Raziskovalna področja**<br><br>Naša raziskovalna podpodročja so modeliranje numeričnih, simbolnih,  slikovnih, tekstovnih in prostorskih podatkov, medicinska diagnostika in prognostika, generiranje delno umetnih podatkov in jezikovne  tehnologije." 
 >}}
 
 </div>

@@ -1,13 +1,13 @@
 +++
-title = "The Power of Predictive Analytics in Decision Making"
+title = "Moč napovedne analitike pri sprejemanju odločitev"
 date = 2025-01-21
 draft = false
-cover_image = "blog/post6/Thumbnail.png"
-summary = "Description content experience a unified analytics platform that bridges the gaps in your data ecosystem, ensuring you have a holistic view of your operations."
+cover_image = "blog/post3/Thumbnail.png"
+summary = "Opis vsebine: izkusite enotno analitično platformo, ki zapolnjuje vrzeli v vašem podatkovnem ekosistemu in vam zagotavlja celosten pogled na vaše poslovanje."
 category = "CATEGORY"
 authors = ["Jon Doe"]
 +++
 
-# The Power of Predictive Analytics in Decision Making
+#### Moč napovedne analitike pri sprejemanju odločitev
 
-Description content experience a unified analytics platform that bridges the gaps in your data ecosystem, ensuring you have a holistic view of your operations.
+Opis vsebine: izkusite enotno analitično platformo, ki zapolnjuje vrzeli v vašem podatkovnem ekosistemu in vam zagotavlja celosten pogled na vaše poslovanje.

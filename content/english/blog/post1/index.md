@@ -78,4 +78,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod  tempor 
 
 #### **Related news**
 
+<br> <br>
+
 {{< content_row_small "media-blog" >}}
