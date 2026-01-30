@@ -66,7 +66,14 @@ staff_members:
     relurl: "tinca-lukan/"
     phone:
 
-
+  - name: "New Researcher"
+    # bio:
+    #   en: "Tinca Lukan received her B. Sc. 2018 in sociology from the UL FRI."
+    #   si: "Tinca Lukan je diplomirala leta 2018 iz sociologije na UL FRI."
+    image: ""
+    contact: "new.researcher@fri.uni-lj.si"
+    relurl: "new.researcher/"
+    phone:
 
 former_members:
   - name: "Assoc. Prof. dr. Erik Štrumbelj"
