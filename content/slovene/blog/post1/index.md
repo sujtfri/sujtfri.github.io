@@ -1,5 +1,5 @@
 +++
-title = "AI4DH workshop"
+title = "AI4DH workshop held in January"
 date = 2025-01-25
 draft = false
 cover_image = "blog/post1/Thumbnail.png"
