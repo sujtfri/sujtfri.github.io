@@ -1,5 +1,5 @@
 +++
-title = "Demistifikacija umetne inteligence: Razumevanje njenega vpliva na vsakodnevno poslovanje"
+title = "AI4DH workshop"
 date = 2025-01-25
 draft = false
 cover_image = "blog/post1/Thumbnail.png"
@@ -7,7 +7,7 @@ category = "CATEGORY"
 authors = ["Jon Doe"]
 +++
 
-#### **Demistifikacija umetne inteligence: Razumevanje njenega vpliva na vsakodnevno poslovanje**
+#### **Demistifikacija TINCA umetne inteligence: Razumevanje njenega vpliva na vsakodnevno poslovanje**
 
 <img src="Thumbnail.png" class="img-fluid w-100 my-5">
 
