@@ -7,7 +7,7 @@ category = "CATEGORY"
 authors = ["Jon Doe"]
 +++
 
-#### **Demistifikacija TINCA umetne inteligence: Razumevanje njenega vpliva na vsakodnevno poslovanje**
+#### **Demistifikacija umetne inteligence: Razumevanje njenega vpliva na vsakodnevno poslovanje**
 
 <img src="Thumbnail.png" class="img-fluid w-100 my-5">
 
