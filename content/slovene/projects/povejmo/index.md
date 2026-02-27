@@ -1,18 +1,20 @@
 +++
-title = 'PoveJmO - Prilagodljiva Obdelava naravnega jezika s pomočjo VElikih Jezikovnih MOdelov'
-date = 2025-02-10
+title = 'Prilagodljiva obdelava naravnega jezika s pomočjo velikih jezikovnih modelov (PoVeJMo)'
+date = 2026-02-10
 draft = false
 authors = ["John Doe", "Jane Doe"]
-cover_image = "projects/povejmo/Thumbnail.png"
-summary = "V projektu bomo razvili več učinkovitih odprtokodnih jezikovnih modelov. Zgrajen model bo prvi tak model za morfološko bogat jezik z malo viri. "
+cover_image = "projects/povejmo/ThumbnailPVM.png"
+summary = "Ključni cilj dolgoročnega raziskovalno-inovacijskega (RRI) programa Prilagodljiva obdelava naravnega jezika s pomočjo velikih jezikovnih modelov (PoVeJMo) je razvoj velikih jezikovnih modelov, ki vplivajo na skoraj celotno področje umetne inteligence in strojnega učenja,  pomemben vpliv pa imajo tudi na številna druga področja in na celotno družbo."
 category="CATEGORY"
 +++
 
-# PoveJmO - Prilagodljiva Obdelava naravnega jezika s pomočjo VElikih Jezikovnih MOdelov
+# Prilagodljiva obdelava naravnega jezika s pomočjo velikih jezikovnih modelov (PoVeJMo)
 
-V projektu bomo razvili več učinkovitih odprtokodnih jezikovnih modelov. Zgrajen model bo prvi tak model za morfološko bogat jezik z malo viri. 
+Izjemno veliki jezikovni modeli, kot sta  ChatGPT in GPT-4, so za nekatere naloge pokazali izjemen napredek in sprožili plaz razvoja aplikacij umetne inteligence. Zaradi zaprtosti in netransparentnosti, visokih računskih zahtev in visoke cene prilagoditev pa so nedosegljivi za večino raziskovalnih organizacij in podjetij. Po drugi strani so se v zadnjem času pojavili bistveno manjši, odprtodostopni modeli, kot je LLaMA-2, ki jih je možno naučiti ali prilagoditi za posamezne naloge na običajnih GPU računalnikih, in dosegajo (skoraj) enako kakovost delovanja.
 
+V programu bomo razvili več računsko učinkovitih odprtodostopnih velikih jezikovnih modelov. Zgrajen odprtodostopen model SloLLaMa za slovenščino bo prvi tak model za morfološko bogat jezik z malo viri. Pripravili bomo korpus za sledenje ukazom, ki bo osnova za nadaljnje prilagoditve modela SloLLaMa specifičnim potrebam aplikacij, na voljo pa bo tudi za širšo akademsko in industrijsko rabo. V aplikativnih projektih bomo osnovni model SloLLaMa prilagajali na naslednje načine.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis urna leo, eu tincidunt massa ultrices a. Curabitur ut placerat arcu, eu porta magna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris eu felis a lectus pharetra consequat faucibus et magna. Sed sed congue mauris, maximus pellentesque est. Quisque venenatis tristique odio, vitae varius dolor fringilla quis. Etiam purus nibh, aliquet ac lacus sed, congue bibendum est. Mauris pretium maximus turpis suscipit rutrum. Suspendisse sed porttitor diam. Nunc imperdiet ultrices sem, ac bibendum lacus porta et. Ut nibh ipsum, porta a gravida fringilla, luctus mollis felis. In hac habitasse platea dictumst. Integer nibh magna, tincidunt et vehicula nec, convallis in ligula. Praesent rutrum felis id est blandit semper. In dapibus lobortis turpis a semper.
+Za pripravo predstavitvenih gradiv in predstavitve podatkov v muzejski rabi ter za napredne muzejske interaktivne aplikacije.
+Za uporabo pri prepoznavanju in sintezi slovenskega govora, kjer bomo z računsko učinkovito inačico modela SloLLaMa omogočili integracijo govornih tehnologij v napredne industrijske aplikacije. Za uporabo v medicini, kjer bomo model SloLLaMa prilagodili z medicinskimi besedili in ukazi s področja klinične in ambulantne rabe. Za uporabo pri generiranju infrastrukturne kode, kjer bomo tehnologije za računsko učinkovite velike jezikovne modele in razvite cevovode za izgradnjo ukaznih in dialoških učnih množic uporabili za generiranje opisa računalniške infrastrukture v programski kodi. Poleg  aplikacij bo projekt zgradil še temeljno infrastrukturo za aplikacije umetne inteligence v slovenščini ter razvil rešitve, ki bodo koristne za druge jezike z malo viri
 
-Suspendisse rutrum semper neque, ut malesuada leo finibus ut. Donec vel molestie arcu, ut ornare est. Pellentesque blandit sapien in quam sodales faucibus. Etiam ullamcorper eros vel nibh fermentum, eget porttitor libero semper. Vestibulum lectus eros, suscipit eu pellentesque id, suscipit a nulla. Morbi porta urna vel lectus bibendum, sit amet pharetra mauris suscipit. Morbi laoreet nec augue vitae tempus. Etiam tincidunt commodo lacinia. Aenean id felis tortor. Pellentesque non tincidunt mi.
+Več informacij o projektu: https://www.cjvt.si/povejmo/

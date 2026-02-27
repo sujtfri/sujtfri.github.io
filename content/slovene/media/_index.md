@@ -16,7 +16,7 @@ Za vsa medijska vprašanja smo na voljo na naslovu {{< cloakemail address="tinca
 <div class="col">
 <div class="border rounded d-flex flex-column py-4 px-5">
 <div>
-<img src="/img/logos/SUJTLOGOEN.png" style="width: 55px;" class="my-2">
+<img src="/img/logos/SUJTLOGOSLO.png" style="width: 55px;" class="my-2">
 <span class="body-big bold ms-3">SUJT</span>
 </div>
 <span class="body-big bold mt-3">SUJT Logotip</span>
@@ -24,7 +24,7 @@ Za vsa medijska vprašanja smo na voljo na naslovu {{< cloakemail address="tinca
 </div>
 <div class="col">
 <div class="border rounded d-flex flex-column py-4 px-5">
-<img src="/img/logos/fri_logo_trans.png" style="width: 129px;" class="my-2">
+<img src="/img/logos/ULLOGOSLO.png" style="width: 129px;" class="my-2">
 <span class="body-big bold mt-3">Drugi logotipi Univerze v Ljubljani</span>
 </div>
 
@@ -32,10 +32,4 @@ Za vsa medijska vprašanja smo na voljo na naslovu {{< cloakemail address="tinca
 </div>
 
 <br><br>
-
-#### **Sporočila za javnost**
-
-<br><br>
-
-{{< content_row_small "media-blog">}}
 

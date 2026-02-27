@@ -14,7 +14,7 @@ draft = false
 
 <br>
 
-Smo znanstveni laboratorij, specializiran za raziskave in razvoj na področju strojnega učenja ter jezikovnih tehnologij.
+Smo znanstveni laboratorij, specializiran za raziskave in razvoj na področju strojnega učenja in jezikovnih tehnologij.
 
 {{</ align>}}
 
@@ -30,7 +30,7 @@ Smo znanstveni laboratorij, specializiran za raziskave in razvoj na področju st
 </div>
 
 <div class="col-lg-5 d-flex mt-5 mt-lg-0 align-items-center justify-content-center">
-<img src="Images.png" class="img-fluid"/>
+<img src="group.jpg" class="img-fluid"/>
  </div>
 </div>
 
@@ -44,7 +44,7 @@ Smo znanstveni laboratorij, specializiran za raziskave in razvoj na področju st
 
 <br> 
 
-Raziskujemo področja podatkovnega rudarjenja, nevronskih mrež, umetne inteligence,  analize velikih podatkovnih baz in analize velikih podatkovnih tokov.
+Raziskujemo področja podatkovnega rudarjenja, nevronskih mrež, umetne inteligence,  analize velikih podatkovnih baz in podatkovnih tokov.
 
 {{< /align >}}
 
@@ -55,14 +55,14 @@ Raziskujemo področja podatkovnega rudarjenja, nevronskih mrež, umetne intelige
 
 {{< feature_cards 
   card1="**Razvoj**<br><br>Razvijamo in uporabljamo nove pristope in algoritme za modeliranje podatkov."
-  card2="**Raziskave**<br><br>Naše raziskave imajo aplikativno vrednost. Sodelujemo z zdravniki, farmacevti, biologi, športnimi strokovnjaki in jezikoslovci."
+  card2="**Raziskave**<br><br>Naše raziskave imajo aplikativno vrednost. Sodelujemo z zdravniki, farmacevti, biologi, športnimi strokovnjaki, jezikoslovci in humanisti."
   card3="**Raziskovalna področja**<br><br>Naša raziskovalna podpodročja so modeliranje numeričnih, simbolnih,  slikovnih, tekstovnih in prostorskih podatkov, medicinska diagnostika in prognostika, generiranje delno umetnih podatkov in jezikovne  tehnologije." 
 >}}
 
 </div>
 
 <div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
-      <img src="Image wrapper.png" class="img-fluid" />
+      <img src="SUJT.jpg" class="img-fluid" />
     </div>
 </div>
 
