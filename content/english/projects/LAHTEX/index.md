@@ -1,0 +1,15 @@
++++
+title = 'LAHTEX - Slovene Easy-to-Read Corpus for Text Simplification Using Artificial Intelligence'
+date = 2026-02-10
+draft = false
+authors = ["John Doe", "Jane Doe"]
+cover_image = "projects/LAHTEX/LAHTEX.png"
+summary = "The primary objective of the project is therefore the creation of the first easy-to-read corpus in Slovene, which will enable empirical research into easy-to-read Slovene and support the development of artificial intelligence tools for text simplification."
+category="CATEGORY"
++++
+
+# LahTex: Slovene Easy-to-Read Corpus for Text Simplification Using Artificial Intelligence
+
+The project addresses the issue of limited access to information among groups with lower reading literacy, such as persons with special needs, immigrants, and the elderly. Easy-to-read texts, incorporating linguistic adaptations that facilitate comprehension, are essential for the more active inclusion of persons with special needs in society and serve as a means of supporting the integration of immigrants. The key challenges in the field of Easy Language in Slovene primarily arise from the lack of adequate infrastructure and resources. At present, no specialised Easy Language corpus exists in Slovene, which significantly hampers the potential for systematic research and the development of effective tools and methodologies for text simplification. An additional challenge lies in the heterogeneity of the target groups — their needs, abilities, and expectations vary considerably, necessitating different levels and types of linguistic adaptation. Simultaneously, the potential of artificial intelligence as a means of fostering inclusive communication remains largely underexploited in the Slovene context. A major limiting factor is the absence of appropriate training data required for the development of high-quality models for simplified text generation. The primary objective of the project is therefore the creation of the first easy-to-read corpus in Slovene, which will enable empirical research into easy-to-read Slovene and support the development of artificial intelligence tools for text simplification. The corpus will comprise authentic easy-to-read texts, machine-translated texts, and artificially generated easy-to-read texts. Drawing on this dataset, a text simplification system will be developed based on the Slovene large language model GaMS, tailored to different target groups through various easy-to-read subcorpora. By developing resources and tools in the domain of easy-to-read Slovene, the project contributes to digital inclusion and the promotion of human rights by facilitating the creation of accessible content for vulnerable populations.
+
+Project website: https://inz.si/en/projekt/lahtex-korpus-lahkega-branja-v-slovenscini-za-poenostavljanje-besedil-z-umetno-inteligenco/
