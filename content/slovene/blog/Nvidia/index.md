@@ -2,7 +2,7 @@
 title = "Domen Vreš prejel superračunalnik NVIDIA DGX Spark za razvoj umetne inteligence v slovenščini"
 date = 2026-01-24
 draft = false
-cover_image = "blog/post3/Domen.jpg"
+cover_image = "blog/Nvidia/Domen.jpg"
 summary = "Raziskovalca s Fakultete za računalništvo in informatiko Domen Vreš in dr. Iztok Lebar Bajec sta bila uspešna na razpisu NVIDIA Academic Grant Program: Generative AI Alignment and Inference, v okviru katerega sta prejela superračunalnik NVIDIA DGX Spark."
 category = "CATEGORY"
 authors = ["Jon Doe"]

@@ -2,7 +2,7 @@
 title = "Intervju s prof. dr. Markom Robnikom-Šikonjo"
 date = 2025-01-20
 draft = false
-cover_image = "blog/post5/mrš.jpeg"
+cover_image = "blog/Intervju/mrš.jpeg"
 summary = "Intervju o stanju in razvoju umetne inteligence na portalu Svet24"
 category = "CATEGORY"
 authors = ["Jon Doe"]

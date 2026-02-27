@@ -2,7 +2,7 @@
 title = "Predavanje na Dnevih ZIFF na Filozofski fakulteti UL"
 date = 2026-02-24
 draft = false
-cover_image = "blog/post ziff/Ziff"
+cover_image = "blog/Ziff/Ziff"
 summary = "Dr. Marko Robnik-Šikonja bo 3. marca ob 14. uri izvedel predavanje o umetni inteligenci in digitalni humanistiki"
 category = "CATEGORY"
 authors = ["Marko Robnik-Šikonja"]

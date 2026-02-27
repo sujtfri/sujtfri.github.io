@@ -2,7 +2,7 @@
 title = "Poziv za oddajo prispevkov za predstavitev na konferenci Jezikovne tehnologije in digitalna humanistika JT-DH 2026"
 date = 2026-02-27
 draft = false
-cover_image = "blog/post6/JTDHSLO.png"
+cover_image = "blog/JTDH/JTDHSLO.png"
 summary = "Konferenca bo potekala 17. in 18. septembra 2026 na Fakulteti za računalništvo in informatiko Univerze v Ljubljani."
 category = "CATEGORY"
 authors = ["Marko Robnik-Šikonja"]

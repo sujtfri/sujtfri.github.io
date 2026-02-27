@@ -1,5 +1,5 @@
 +++
-title = 'LLM4DH - Large Language Models for Digital Humanities'
+title = 'LLM4DH - Veliki jezikovni modeli za digitalno humanistiko'
 date = 2026-02-10
 draft = false
 authors = ["John Doe", "Jane Doe"]
