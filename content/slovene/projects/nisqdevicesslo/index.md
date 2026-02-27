@@ -2,7 +2,7 @@
 title = 'Praktična kvantna prednost računanja z rezervoarji na NISQ napravah'
 date = 2026-02-08
 draft = false
-cover_image = "projects/nisqdevices/Thumbnail22.png"
+cover_image = "projects/nisqdevicesslo/Thumbnail22.png"
 summary = "Ta projekt raziskuje računanje s kvantnim rezervarjem na napravah trenutnih kvantnih napravah prek eksperimentov, teorije in simulacij."
 category = "CATEGORY"
 +++

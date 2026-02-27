@@ -2,7 +2,7 @@
 title = 'LLMs4EU Veliki jezikovni modeli za Evropsko unijo'
 date = 2026-02-08
 draft = false
-cover_image = "projects/LLMS4EU/Thumbnail4.png"
+cover_image = "projects/LLMS4EUslo/Thumbnail4.png"
 summary = "Projekt LLMs4EU, ki ga koordinira Alliance for Language Technologies (ALT-EDIC), si prizadeva ohraniti evropsko jezikovno in kulturno raznolikost v digitalni dobi s sodelovanjem med gospodarskimi in akademskimi akterji."
 category = "CATEGORY"
 +++

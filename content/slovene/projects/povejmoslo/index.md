@@ -3,7 +3,7 @@ title = 'Prilagodljiva obdelava naravnega jezika s pomočjo velikih jezikovnih m
 date = 2026-02-10
 draft = false
 authors = ["John Doe", "Jane Doe"]
-cover_image = "projects/povejmo/ThumbnailPVM.png"
+cover_image = "projects/povejmoslo/ThumbnailPVM.png"
 summary = "Ključni cilj dolgoročnega raziskovalno-inovacijskega (RRI) programa Prilagodljiva obdelava naravnega jezika s pomočjo velikih jezikovnih modelov (PoVeJMo) je razvoj velikih jezikovnih modelov, ki vplivajo na skoraj celotno področje umetne inteligence in strojnega učenja,  pomemben vpliv pa imajo tudi na številna druga področja in na celotno družbo."
 category="CATEGORY"
 +++

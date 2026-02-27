@@ -2,7 +2,7 @@
 title = 'Center odličnosti za umetno inteligenco v digitalni humanistiki (AI4DH)'
 date = 2026-02-08
 draft = false
-cover_image = "projects/AI4DHCoE/Thumbnail3.png"
+cover_image = "projects/AI4DHCoEslo/Thumbnail3.png"
 summary = "Projekt si prizadeva uveljaviti UL kot vodilno institucijo v Evropi za uporabo UI v DH z ustanovitvijo centra odličnosti (CO), ki združuje vrhunske raziskave UI s sodelovanjem in podporo znanstvenikom na področjih DH."
 category = "CATEGORY"
 +++
