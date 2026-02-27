@@ -13,7 +13,7 @@ draft = false
 
 <br>
 
-We are a scientific laboratory specializing in research and development in the fields of machine learning and language technologies.
+We are a scientific laboratory specialising in research and development in the fields of machine learning and language technologies.
 
 {{</ align>}}
 
@@ -27,7 +27,7 @@ We are a scientific laboratory specializing in research and development in the f
 </div>
 
 <div class="col-lg-5 d-flex mt-5 mt-lg-0 align-items-center justify-content-center">
-  <img src="Images.png" class="img-fluid"/>
+  <img src="Group.jpg" class="img-fluid"/>
 </div>
 
 </div>
@@ -52,14 +52,14 @@ We explore the fields of data mining, neural networks, artificial intelligence, 
 
 {{< feature_cards 
   card1="**Development**<br><br>We develop and apply new approaches and algorithms for data modeling."
-  card2="**Research**<br><br>Our research has practical value. We collaborate with doctors, pharmacists, biologists, sports experts, and linguists."
+  card2="**Research**<br><br>Our research has practical value. We collaborate with doctors, pharmacists, biologists, sports experts, linguists and humanities scholars."
   card3="**Research areas**<br><br>Our research subfields include modeling of numerical, symbolic, image, text, and spatial data, medical diagnostics and prognostics, generation of semi-synthetic data, and language technologies." 
 >}}
 
 </div>
 
 <div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
-  <img src="Image wrapper.png" class="img-fluid" />
+  <img src="SUJT.jpg" class="img-fluid" />
 </div>
 
 </div>

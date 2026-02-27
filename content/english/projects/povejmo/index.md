@@ -3,7 +3,7 @@ title = 'PoVeJMo – Adaptive Natural Language Processing with the Help of Large
 date = 2026-02-10
 draft = false
 authors = ["John Doe", "Jane Doe"]
-cover_image = "projects/povejmo/Thumbnail.png"
+cover_image = "projects/POVEJMO/Thumbnail.png"
 summary = "In this project, we will develop several efficient open-source language models. The constructed model will be the first of its kind for a morphologically rich low-resource language."
 category="CATEGORY"
 +++

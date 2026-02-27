@@ -11,9 +11,3 @@ draft = false
 {{< content_row "blog" >}}
 
 <br> <br> 
-
-##### **In media**
-
-<br> <br> 
-
-{{< content_row_small "media-blog" >}}

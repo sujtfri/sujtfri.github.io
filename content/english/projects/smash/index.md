@@ -2,7 +2,7 @@
 title = 'SMASH – Machine Learning for Science and the Humanities'
 date = 2026-02-09
 draft = false
-cover_image = "projects/smash/Thumbnail.png"
+cover_image = "projects/SMASH/Thumbnail.png"
 summary = "SMASH is an innovative, cross-sectoral training program for career development, co-funded under the Marie Skłodowska-Curie COFUND (MSCA COFUND) calls for the period 2023–2028. The goal of the SMASH program is to enhance research excellence and career prospects of outstanding postdoctoral researchers from around the world."
 category = "CATEGORY"
 +++

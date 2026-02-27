@@ -16,7 +16,7 @@ For all media inquiries, please contact us at {{< cloakemail address="tinca.luka
 <div class="col">
 <div class="border rounded d-flex flex-column py-4 px-5">
 <div>
-<img src="/img/logos/MLLT-logo.png" style="width: 55px;" class="my-2">
+<img src="/img/SUJTLOGOEN.png" style="width: 55px;" class="my-2">
 <span class="body-big bold ms-3">SUJT</span>
 </div>
 <span class="body-big bold mt-3">SUJT Logo</span>
@@ -33,9 +33,4 @@ For all media inquiries, please contact us at {{< cloakemail address="tinca.luka
 
 <br><br>
 
-#### **Press releases**
-
-<br><br>
-
-{{< content_row_small "media-blog">}}
 

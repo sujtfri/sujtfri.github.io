@@ -2,7 +2,7 @@
 title = 'Practical quantum advantage of reservoir computing on NISQ devices'
 date = 2026-02-08
 draft = false
-cover_image = "projects/NISQdevices/Thumbnail2.png"
+cover_image = "projects/nisqdevices/Thumbnail22.png"
 summary = "This project explores quantum reservoir computing on current quantum devices through experiments, theory, and simulations."
 category = "CATEGORY"
 +++
