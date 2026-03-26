@@ -12,6 +12,14 @@ head_members:
     phone: +386 1 4798 241
 
 staff_members:
+  - name: "Amelie Quilichini"
+    #bio:
+    # en: "Test User received his B.Sc., M.Sc. and Ph.D. degrees in computer science from the University of Ljubljana in 2001, 2003 and 2007, respectively. He is a professor at the Laboratory for Cognitive Modeling. His research interests include machine learning, in particular mining from data streams, recommender systems, user behavior profiling, and natural language processing. He is a (co)author of more than 50 publications in these fields."
+    #si: "Test User je prejel svojo B.Sc., M.Sc. in Ph.D. stopnjo iz računalništva na Univerzi v Ljubljani leta 2001, 2003 in 2007. Je profesor na Laboratoriju za kognitivno modeliranje. Njegovo raziskovalno področje vključuje strojno učenje, zlasti rudarjenje iz podatkovnih tokov, sisteme za priporočanje, profiliranje uporabniškega vedenja in obdelavo naravnega jezika. Je (so)avtor več kot 50 objav na teh področjih."
+    image: "https://static0.srcdn.com/wordpress/wp-content/uploads/Inigo-Montoya-Princess-Bride-Mandy-Patinkin.jpg"
+    contact: "amelie@example.com"
+    relurl: "amelie.quilichini/"
+    phone: +386 1 xxx xxx
   - name: "Prof. dr. Test User"
     #bio:
     # en: "Test User received his B.Sc., M.Sc. and Ph.D. degrees in computer science from the University of Ljubljana in 2001, 2003 and 2007, respectively. He is a professor at the Laboratory for Cognitive Modeling. His research interests include machine learning, in particular mining from data streams, recommender systems, user behavior profiling, and natural language processing. He is a (co)author of more than 50 publications in these fields."
